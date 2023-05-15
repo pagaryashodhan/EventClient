@@ -1,0 +1,859 @@
+@import url("https://fonts.googleapis.com/css2?family=Koulen&family=Poppins:wght@200;300&display=swap");
+
+:root {
+  --btnGradient: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
+  --glassGradient: linear-gradient(
+    rgba(235, 230, 230, 0.3),
+    rgba(235, 230, 230, 0.3)
+  );
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Koulen", cursive;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  min-height: 100vh;
+  height: max-content;
+  width: 100%;
+  background: url("../public/Images/background.png");
+  background-size: cover;
+  background-position: center center;
+}
+.page-bg {
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  min-height: 100vh;
+  height: max-content;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  opacity: 1;
+}
+
+.main-container {
+  padding: 1em;
+}
+.cardComponent {
+  /* background: linear-gradient(
+    rgba(235, 230, 230, 0.1),
+    rgba(235, 230, 230, 0.1)
+  ); */
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(73, 73, 73, 0.37);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  max-width: 30em;
+  margin-bottom: 2em;
+  padding: 20px 20px;
+  border-radius: 20px;
+  box-shadow: -2px 10px 25px #000;
+}
+
+@media only screen and (min-width: 700px) {
+  .cardComponent {
+    max-width: 35em;
+    padding: 2em 5em;
+  }
+  .cardComponent input {
+    max-width: 30em;
+  }
+}
+
+.cardHeading {
+  padding: 10px 0;
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: "white";
+  text-align: center;
+}
+
+.detailCardComponent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0px 4px 24px rgba(0, 0, 0, 0.25));
+  background: linear-gradient(
+    rgba(235, 230, 230, 0.1),
+    rgba(235, 230, 230, 0.1)
+  );
+  width: 380px;
+  padding: 50px 30px;
+  border-radius: 20px;
+  box-shadow: -2px 10px 25px #000;
+}
+
+.otherCardComponent {
+  margin-top: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(
+    rgba(235, 230, 230, 0.1),
+    rgba(235, 230, 230, 0.1)
+  );
+  width: 380px;
+  padding: 20px 30px;
+  border-radius: 20px;
+  box-shadow: -2px 10px 25px #000;
+}
+
+.verificationCardComponent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(
+    rgba(235, 230, 230, 0.1),
+    rgba(235, 230, 230, 0.1)
+  );
+  min-width: 350px;
+  max-width: 450px;
+  min-height: 350px;
+  padding: 50px 30px;
+  border-radius: 20px;
+  box-shadow: -2px 10px 25px #000;
+}
+
+.verificationCardComponent #verificationMsg {
+  font-weight: 800;
+  font-size: 1.3rem;
+  line-height: 36px;
+  text-align: center;
+  color: #adcaff;
+}
+
+.verificationCardComponent #metaMsg {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 24px;
+  text-align: center;
+  color: white;
+  position: relative;
+  bottom: 0.1rem;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 2em;
+  color: white;
+  font-weight: 700;
+}
+
+input {
+  width: 100%;
+  display: block;
+  padding: 10px;
+  color: black;
+  border: 1px solid rgba(212, 212, 212, 0.249);
+  border-radius: 15px;
+  outline: none;
+  background: white;
+  margin: 1em 0;
+}
+
+input::placeholder {
+  color: rgb(87, 125, 152);
+}
+
+label {
+  font-family: "Poppins";
+  font-size: 0.8em;
+  text-align: left;
+  color: #89afbd;
+  font-weight: bolder;
+  /* margin-top: 5px; */
+  margin-left: 1rem;
+  mix-blend-mode: overlay;
+}
+
+.detailOption {
+  width: 100%;
+  display: block;
+  padding: 10px;
+  color: black;
+  border: 1px solid rgba(212, 212, 212, 0.249);
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.detailOption::-ms-expand {
+  display: none;
+}
+
+select option {
+  color: black;
+}
+.downicon {
+  width: 60px;
+  height: 0%;
+  position: relative;
+  left: 286px;
+  top: -32px;
+  color: #5f92a4;
+}
+
+::placeholder {
+  color: white;
+  font-weight: 400;
+  opacity: 1;
+}
+
+.loginButton {
+  font-size: 1.2rem;
+  color: white;
+  font-weight: bolder;
+  background: var(--btnGradient);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.loginButton:hover {
+  transition: ease-in-out 0.3s;
+  color: white;
+  /* background-color: rgba(15, 15, 15, 0.119); */
+  box-shadow: 1px 3px 13px 0px #fff;
+}
+
+.infoText {
+  color: #e2e2e2;
+
+  border-radius: 5px;
+}
+
+.infoText a {
+  color: #e2e2e2;
+}
+
+.infoText a:hover {
+  color: #f6ff00;
+}
+
+/* Events page css */
+/* Events page css */
+/* Events page css */
+
+.all-events {
+  padding: 20px;
+}
+
+.all-events .event-card {
+  padding: 10px;
+  margin: 30px 10px;
+  border-radius: 10px;
+  background: linear-gradient(
+    rgba(235, 230, 230, 0.4),
+    rgba(235, 230, 230, 0.4)
+  );
+  z-index: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-flow: column;
+}
+
+.event-card:hover {
+  transform: scale(1.02);
+  transition: 0.5s;
+  background: var(--btnGradient);
+  box-shadow: 6px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+.event-card .inner-card {
+  width: 100%;
+  height: 60vh;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.event-card .inner-card img {
+  width: 100%;
+  height: 60vh;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.event-card h6 {
+  font-weight: bold;
+  color: black;
+}
+.event-card .register-btn,
+.fraz-poster .register-btn {
+  border: none;
+  padding: 10px 25px;
+
+  background: linear-gradient(30deg, #001061, #800077, #ffcc70);
+  box-shadow: 4px 6px 6px rgba(0, 0, 0, 0.19);
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.EventsPage .poster-cover {
+  display: flex;
+  justify-content: center;
+}
+
+.EventsPage .event-poster {
+  width: 70%;
+  height: 80vh;
+  border-radius: 20px;
+}
+.EventsPage .event-poster img {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+.EventsPage {
+  position: relative;
+  width: 100%;
+  color: white;
+  height: 100vh;
+  /* overflow-y: scroll; */
+}
+
+.EventsPage .event-title {
+  padding: 20px;
+  font-weight: bold;
+  color: white;
+
+  font-family: cursive;
+
+  text-align: center;
+}
+
+.EventsPage #fill-tab {
+  border-radius: 20px;
+  box-shadow: -2px 10px 25px #000;
+}
+
+.EventsPage .Accordion {
+  background: linear-gradient(
+    179.4deg,
+    rgb(12, 20, 69) -16.9%,
+    rgb(71, 30, 84) 119.9%
+  );
+  color: black;
+  border-radius: 0 0 10px 10px;
+  padding-bottom: 10px;
+  height: 100%;
+}
+
+.EventsPage .event-info {
+  border-radius: 20px;
+  background: var(--glassGradient);
+  color: black;
+}
+
+/* new css in events page */
+/* new css in events page */
+/* new css in events page */
+
+.my-react-icons {
+  font-size: 1.5rem;
+}
+.event-info-top {
+  margin-left: 1em;
+  padding: 0 3em;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-flow: column;
+}
+.event-info-top .info-heading {
+  padding-top: 0.25em;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-shadow: 6px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+.event-info-top span {
+  color: rgb(154, 154, 154);
+  font-weight: bold;
+}
+
+.event-info-top a {
+  color: white;
+  text-decoration: underline;
+}
+.event-info-top a:hover {
+  font-weight: bold;
+  color: white;
+  font-size: 18px;
+  transition: 0.4s;
+}
+/* new css ends in events page */
+/* new css ends in events page */
+
+/* .EventsPage .tabpanel h1 {
+  color: black;
+} */
+.EventsPage .event-info .event-info-top {
+  height: 70%;
+}
+.EventsPage .register-btn button {
+  background: var(--btnGradient);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  width: 300px;
+  margin-top: 20px;
+  box-shadow: 6px 6px 10px rgba(50, 25, 25, 0.5);
+  font-weight: bold;
+  letter-spacing: 0.4px;
+}
+
+.EventsPage .register-btn button:hover {
+  background-color: white;
+  transition: 0.4s ease-in;
+}
+
+.register-btn:hover {
+  background: #001061;
+  transition: 0.4s;
+  color: white;
+}
+@media only screen and (max-width: 700px) {
+  .EventsPage .event-poster {
+    width: 90%;
+    height: 60vh;
+    background-size: 100% 100%;
+    margin-bottom: 2em;
+  }
+  .EventsPage .event-info {
+    margin-top: 2em;
+  }
+}
+
+/* events page 2 design */
+
+.new-eventcard .event-title {
+  margin-top: 0.5em;
+  text-align: center;
+  /* background: linear-gradient(to right,  #ff00a2,#fe3ad7, #000dff, #000dff);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; 
+  background-clip: text; */
+  z-index: 999;
+  font-family: cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-shadow: 6px 4px 6px rgba(0, 0, 0, 0.35);
+}
+.new-eventcard {
+  /* background-color: white; */
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(82, 82, 82, 0.37);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+
+  flex-flow: column;
+  color: black;
+}
+
+.new-eventcard .event-info-top p {
+  color: rgb(223, 223, 223);
+  font-family: cursive;
+}
+
+.new-eventcard .register-btn button {
+  margin-bottom: 20px;
+  background: var(--btnGradient);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  width: 300px;
+  margin-top: 20px;
+  box-shadow: 6px 6px 10px rgba(50, 25, 25, 0.5);
+  font-weight: bold;
+  letter-spacing: 0.4px;
+}
+.new-eventcard .register-btn:hover {
+  background-color: transparent;
+  transform: scale(1);
+}
+
+/* events page design 2 ends */
+
+/* events page design ends here */
+
+.profilepage-img {
+  position: relative;
+  width: 5.5%;
+  height: 5.5%;
+  left: 42em;
+  top: 3.5em;
+  background-image: url("./Images/profileimg.jfif");
+  border-radius: 50px;
+  z-index: 2;
+}
+.profilepage-img span {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: 900;
+  margin-left: 40%;
+  /* margin-top: 10%; */
+}
+.profile-box {
+  background: linear-gradient(
+    rgba(235, 230, 230, 0.1),
+    rgba(235, 230, 230, 0.1)
+  );
+  border-radius: 20px;
+  box-shadow: -2px 10px 25px #000;
+  padding-bottom: 2rem;
+  z-index: 500;
+}
+
+.profile-box h3 {
+  /* margin-top: 5%; */
+  margin-left: 39%;
+  margin-bottom: 2%;
+  /* font-size: 2.5rem; */
+  font-weight: 900;
+  color: white;
+  z-index: 2;
+}
+
+.profile-box .register {
+  color: yellow;
+  /* margin-top: 1%; */
+  /* margin-right: 2rem; */
+  /* margin-left: 2%; */
+  font-size: 1.1rem;
+  font-weight: 900;
+  z-index: 2;
+}
+
+.profileposter {
+  /* width: 15%; */
+  height: 15%;
+  max-width: 15%;
+  margin: 2em;
+  z-index: 2;
+}
+
+.profileposter > img {
+  border-radius: 10%;
+}
+
+.profileposter > img:hover {
+  transition: 0.3s;
+  border-radius: 15%;
+  scale: 1.2;
+}
+
+hr {
+  border: 20px solid grey;
+  z-index: 2;
+  padding-top: 0.5%;
+  /* padding-bottom: 0.5rem; */
+}
+
+.profiletxt {
+  color: #ffffff;
+  font-size: 1.1rem;
+  margin-left: 2%;
+  margin-bottom: -0.625%;
+  font-weight: 900;
+  z-index: 2;
+}
+
+.col input {
+  border-radius: none;
+  width: 15em;
+  height: 2em;
+  z-index: 2;
+  margin-left: 10%;
+}
+
+@media only screen and (max-width: 700px) {
+  .col input {
+    width: 9em;
+  }
+
+  .smallButton {
+    margin-bottom: 5%;
+  }
+  #my-particles {
+    display: none;
+  }
+}
+
+.smallButton {
+  border: none;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #135f8292;
+}
+
+.smallButton:hover {
+  transition: 0.3s;
+  border: none;
+  scale: 1.2;
+  border-radius: 20px;
+  background-color: #0e445d57;
+}
+
+/* Particle Js css */
+#particles-js canvas {
+  display: block;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  -webkit-transition: opacity 0.8s ease, -webkit-transform 1.4s ease;
+  transition: opacity 0.8s ease, transform 1.4s ease;
+}
+
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  opacity: 0.9;
+
+  background-repeat: no-repeat;
+  background-color: #000000;
+
+  background-size: cover;
+  /* background-attachment:  scroll; */
+}
+
+.bg-circles {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: url("./Images/circles.svg") no-repeat;
+  background-size: contain;
+  top: 10%;
+}
+
+.mainbox {
+  margin: auto;
+  height: 600px;
+  width: 600px;
+  position: relative;
+}
+
+.err {
+  color: #ffffff;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 20%;
+  top: 8%;
+}
+
+.far {
+  position: absolute;
+  font-size: 8.5rem;
+  left: 51%;
+  top: 28%;
+  color: #ffffff;
+  animation: myfirst 1.5s infinite linear;
+}
+
+@keyframes myfirst {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+.err2 {
+  color: #ffffff;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 68%;
+  top: 8%;
+}
+
+.msg {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.6rem;
+  position: absolute;
+  left: 16%;
+  top: 45%;
+  width: 75%;
+}
+
+.mainbox a {
+  background-color: #e77823;
+  border-radius: 5px;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.mainbox a:hover {
+  background-color: whitesmoke;
+}
+
+.payment-page .payment-ticket {
+  margin-top: 2em;
+}
+
+/* payment page button style */
+
+.payment-button-screen {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.payment-button-screen button {
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  background: var(--btnGradient);
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+/* fraz poster */
+
+.all-events .fraz-poster {
+  position: relative;
+  z-index: 999;
+}
+.all-events .fraz-poster .fpost {
+  border-radius: 10px;
+  background: linear-gradient(
+    rgba(235, 230, 230, 0.4),
+    rgba(235, 230, 230, 0.4)
+  );
+  padding: 20px 10px;
+  display: flex;
+  justify-content: center;
+}
+.all-events .fraz-poster .fpost img {
+  max-width: 90vw;
+}
+
+/* event pass design css */
+.pass-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.eventpass {
+  border: 1px solid rgb(53, 53, 53);
+  border-radius: 10px;
+  width: 95%;
+
+  max-width: 400px;
+  height: 90vh;
+}
+.eventpass .pass-header {
+  height: 40%;
+  /* max-height: fit-content; */
+}
+
+.eventpass .pass-header .top-line {
+  padding: 1em 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.eventpass .pass-header .top-line #pccoelogo {
+  width: 5em;
+}
+.eventpass .pass-header .top-line #passlogo {
+  width: 9em;
+}
+.eventpass .pass-header .pass-btm-img {
+  display: flex;
+  justify-content: center;
+}
+.eventpass .pass-header .pass-btm-img img {
+  max-width: 70%;
+}
+
+.pass-bottom {
+  height: 60%;
+  padding: 1em 1.5em;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #021029, #243b55);
+}
+
+.pass-bottom .passbtm-header h3 {
+  text-align: center;
+
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.pass-bottom .pass-venue{
+  text-align: center;
+
+}
+.pass-bottom .pass-regards{
+  padding-top: 1em;
+  font-style: italic;
+}
+
+.pass-email{
+  text-align: end;
+}
+
+.passlist .passlist-title{
+  padding-top: 1em;
+  text-align: center;
+}
+.passlist .pass-cards .pcard{
+  width: fit-content;
+  padding: 20px;
+  margin: 1em;
+}
+
+
+@media only screen and (max-width: 480px) {
+  .eventpass{
+    height: 75vh;
+  }
+}

@@ -1,0 +1,797 @@
+[
+    {
+        "team_name": "Developers",
+        "members": [
+            {
+                "id": 1,
+                "name": "Yash Jaybhaye",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/yash-jaybhaye-087183213/",
+                "github": "https://github.com/YashJ1707",
+                "website": "https://github.com/YashJ1707",
+                "insta": "https://www.instagram.com/yashj1707/"
+            },
+            {
+                "id": 2,
+                "name": "Dhananjay Gavali",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/dhgavali/",
+                "github": "https://www.github.com/dhgavali",
+                "website": "https://dhgavali.me",
+                "insta": "https://instragram.com/dhgavali"
+            },
+            {
+                "id": 3,
+                "name": "Yashodhan Pagar",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/yashodhanpagar/",
+                "github": "https://github.com/pagaryashodhan",
+                "website": "",
+                "insta": "https://www.instagram.com/yashodhan.pagar/"
+            },
+            {
+                "id": 4,
+                "name": "Arnav Deshmukh",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/arnav-deshmukh-510004218/",
+                "github": "https://www.github.com/arnavdeshmukh18",
+                "website": "https://arnavd2840.netlify.app/",
+                "insta": "https://www.instagram.com/_arnav_d_/",
+                "Image": "https://drive.google.com/drive/folders/1IYidnHccu3s-Ssr9aZA7nDwgtMECmqI5?usp=share_link"
+            },
+            {
+                "id": 5,
+                "name": "Chinmay Dhamgunde",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/chinmay-dhamgunde-23617122a/",
+                "github": "https://github.com/chinmaydhamgunde",
+                "website": "https://twitter.com/0xChinmay",
+                "insta": "https://instragram.com/chinmaydhamgunde/"
+            },
+            {
+                "id": 6,
+                "name": "Prathamesh Patil",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/prathamesh-patil-jalgaon/",
+                "github": "https://www.github.com/prathamesh-patil-github",
+                "website": "https://prathameshpatil.web.app",
+                "insta": "https://instagram.com/pro14.1",
+                "image": "https://drive.google.com/file/d/158_91u5jx2z5spvvenIcAu6OeTJnjwwY/view?usp=share_link"
+            },
+            {
+                "id": 7,
+                "name": "Madhukrishna Nipankar",
+                "team": "Webmasters",
+                "role": "Developer",
+                "linkedin": "https://www.linkedin.com/in/madhukrishna-nipankar-666771213/",
+                "github": "https://github.com/MadhukrishnaNipankar",
+                "website": "https://madhukrishnanipankar.netlify.app/",
+                "insta": ""
+            }
+        ]
+    },
+    {
+        "team_name": "Core Team",
+        "members": [
+            {
+                "id": 1,
+                "name": "Harshit khandelwal",
+                "team": "Core Team",
+                "role": "Chairperson",
+                "linkedin": "https://www.linkedin.com/in/harshit-khandelwal-3a76631b9",
+                "github": "https://github.com/Harshit2756",
+                "website": "",
+                "insta": "https://www.instagram.com/harshit.khandelwal.1865/",
+                "image": "https://drive.google.com/file/d/1YTxcPzwFZN1QQQxBOkW_Ac_j6QMeCbhH/view?usp=share_link"
+            },
+            {
+                "id": 2,
+                "name": "Shivani Pokale",
+                "team": "Core Team",
+                "role": "Co-Chair",
+                "linkedin": "https://www.linkedin.com/in/shivani-pokale/",
+                "github": "https://github.com/shivanipokale",
+                "website": "",
+                "insta": "https://instagram.com/_shivanipokale_?igshid=YmMyMTA2M2Y=",
+                "image": "https://drive.google.com/file/d/1pvTzP7WIcOltmTeD---xMbz79glgbrsS/view?usp=share_link"
+            },
+            {
+                "id": 3,
+                "name": "Prajakta Tate",
+                "team": "Core Team",
+                "role": "Secretary",
+                "linkedin": "https://www.linkedin.com/in/prajakta-tate-178238219/",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/prajakta_tate?igshid=YmMyMTA2M2Y=",
+                "image": "https://drive.google.com/file/d/1CYBKwxLK_SIELiHNhEGHt00Rf2ZcIOaV/view?usp=sharing"
+            },
+            {
+                "id": 4,
+                "name": "Siddhi Narharshettiwar",
+                "team": "Core Team",
+                "role": "co-secretary",
+                "linkedin": "https://www.linkedin.com/in/siddhi-narharshettiwar/",
+                "github": "https://github.com/Siddhi-3",
+                "website": "",
+                "insta": "https://www.instagram.com/sid_shettiwar23/",
+                "image": "https://drive.google.com/file/d/1vdvpFQ4f8xiHTkyZ0-jNNhfbHXeCRyqg/view?usp=share_link"
+            },
+            {
+                "id": 5,
+                "name": "Sahil Kale",
+                "team": "Core Team",
+                "role": "Treasurer",
+                "linkedin": "https://www.linkedin.com/in/sahil-kale-349b401a5",
+                "github": "https://github.com/Sahilkale009",
+                "website": "",
+                "insta": "https://instagram.com/sahilkale009?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1lYAExwHhZweQ9IlNfvGDeLCLUOgyM_lt/view?usp=drivesdk"
+            },
+            {
+                "id": 6,
+                "name": "Siddhant Sonar",
+                "team": "Core Team",
+                "role": "Co-Treasurer",
+                "linkedin": "https://www.linkedin.com/in/siddhant-sonar-14b27720a/",
+                "github": "https://github.com/sidd49",
+                "website": "",
+                "insta": "https://www.instagram.com/call_me_sidd_49/",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "team_name": "BE Mentors",
+        "members": [
+            {
+                "id": 1,
+                "name": "Eshaa Mohod",
+                "team": "BE Mentors",
+                "role": "Ex-Chair",
+                "linkedin": "https://www.linkedin.com/in/eshaa-mohod-5102471aa/",
+                "github": "https://github.com/eshaamohod",
+                "website": "",
+                "insta": "https://instagram.com/eshaa__mohod?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/17B2t5SLV90ICu-2G3fV_YmihsRrOaM1c/view?usp=sharing"
+            },
+            {
+                "id": 2,
+                "name": "Akshay Munot",
+                "team": "BE Mentors",
+                "role": "Ex-Co-Chair",
+                "linkedin": "https://www.linkedin.com/in/akshaymunot30/",
+                "github": "https://github.com/akshayMunot30",
+                "website": "",
+                "insta": "https://www.instagram.com/akshaymunot_30/",
+                "image": "https://drive.google.com/file/d/1nMOVCh-7x7c2WYkmfARAWcWDZ4mmGCLz/view?usp=share_link"
+            },
+            {
+                "id": 3,
+                "name": "Pooja Katpale",
+                "team": "BE Mentors",
+                "role": "Ex-Secretary",
+                "linkedin": "https://www.linkedin.com/in/pooja-katpale-283208191/",
+                "github": "https://github.com/poojakatpale4588",
+                "website": "",
+                "insta": "https://www.instagram.com/poojakatpale4588/",
+                "image": "https://drive.google.com/file/d/140QRYRhLOIOeJLZeq7XwT11UvNptgKD5/view?usp=share_link"
+            },
+            {
+                "id": 4,
+                "name": "Mrudula Kulkarni",
+                "team": "BE Mentors",
+                "role": "Ex- Co-Secretary",
+                "linkedin": "https://www.linkedin.com/in/mrudula-kulkarni-748893191/",
+                "github": "https://github.com/Mrudula-Kulkarni",
+                "website": "",
+                "insta": "https://www.instagram.com/mrudula_mk/",
+                "image": "https://drive.google.com/file/d/1EX-yYzd73RCP3B_J-Tf5uNopmVl_FOPJ/view"
+            },
+            {
+                "id": 5,
+                "name": "Shivam Desale",
+                "team": "BE Mentors",
+                "role": "Treasurer",
+                "linkedin": "https://www.linkedin.com/in/shivam-desale-02",
+                "github": "https://github.com/shivamdesale13",
+                "website": "",
+                "insta": "https://www.instagram.com/shiv_desale02/",
+                "image": "https://drive.google.com/file/d/1IZXHNa9lF0xRFl_vf4fvTngjtGgXFPyx/view?usp=share_link"
+            },
+            {
+                "id": 6,
+                "name": "Varun Prasannan",
+                "team": "BE Mentors",
+                "role": "Ex Co-Treasurer",
+                "linkedin": "https://www.linkedin.com/in/varunprasannan/",
+                "github": "https://github.com/varunprasannan",
+                "website": "",
+                "insta": "https://www.instagram.com/varunprasannan/",
+                "image": "https://drive.google.com/file/d/11mAVHPjClfAIIYfsjN9L3tYsCkA7_P-9/view"
+            }
+        ]
+    },
+    {
+        "team_name": "Web Masters",
+        "members": [
+            {
+                "id": 1,
+                "name": "Yash Jaybhaye",
+                "team": "Webmasters",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/yash-jaybhaye-087183213/",
+                "github": "https://github.com/YashJ1707",
+                "website": "https://github.com/YashJ1707",
+                "insta": "https://www.instagram.com/yashj1707/"
+            },
+            {
+                "id": 2,
+                "name": "Dhananjay Gavali",
+                "team": "Webmasters",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/dhgavali/",
+                "github": "https://www.github.com/dhgavali",
+                "website": "https://dhgavali.me",
+                "insta": "https://instragram.com/dhgavali"
+            },
+            {
+                "id": 3,
+                "name": "Yashodhan Pagar",
+                "team": "Webmasters",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/yashodhanpagar/",
+                "github": "https://github.com/pagaryashodhan",
+                "website": "",
+                "insta": "https://www.instagram.com/yashodhan.pagar/"
+            },
+            {
+                "id": 4,
+                "name": "Arnav Deshmukh",
+                "team": "Webmasters",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/arnav-deshmukh-510004218/",
+                "github": "https://www.github.com/arnavdeshmukh18",
+                "website": "https://arnavd2840.netlify.app/",
+                "insta": "https://www.instagram.com/_arnav_d_/",
+                "Image": "https://drive.google.com/drive/folders/1IYidnHccu3s-Ssr9aZA7nDwgtMECmqI5?usp=share_link"
+            },
+            {
+                "id": 5,
+                "name": "Chinmay Dhamgunde",
+                "team": "Webmasters",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/chinmay-dhamgunde-23617122a/",
+                "github": "https://github.com/chinmaydhamgunde",
+                "website": "https://twitter.com/0xChinmay",
+                "insta": "https://instragram.com/chinmaydhamgunde/"
+            },
+            {
+                "id": 6,
+                "name": "Sajan Gaikwad",
+                "team": "Webmasters",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/sajan-gaikwad-developer/",
+                "github": "https://github.com/SAJanGAIKwad",
+                "website": "",
+                "insta": "https://instagram.com/_.sajannn.gaikwaddd._?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/158_91u5jx2z5spvvenIcAu6OeTJnjwwY/view?usp=share_link"
+            },
+            {
+                "id": 7,
+                "name": "Sakshi Londhe",
+                "team": "Webmasters",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/sakshi-londhe-a8283122b",
+                "github": "https://github.com/sakshi-0",
+                "website": "",
+                "insta": "https://instagram.com/sakshivl_2119?igshid=YmMyMTA2M2Y="
+            }
+        ]
+    },
+    {
+        "team_name": "IEEE Membership Development Teamers",
+        "members": [
+            {
+                "id": 1,
+                "name": "Simran Kamble",
+                "team": "IEEE Membership Development Team",
+                "role": "Team Lead",
+                "linkedin": "https://www.linkedin.com/in/simran-kamble-177950250/",
+                "github": "https://github.com/simrankamble11",
+                "website": "",
+                "insta": "",
+                "image": "https://drive.google.com/file/d/1FfCy9E6a4t9Hgo1yLbZsODgC-iruraYM/view"
+            },
+            {
+                "id": 2,
+                "name": "Rucha Bachal",
+                "team": "IEEE Membership Development Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/rucha-bachal-34a93a223/",
+                "github": "https://github.com/Ruchab25",
+                "website": "",
+                "insta": "https://instagram.com/ruchab_25?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1EnlJAjC3toh1cRNDmoYPWaWoiezun_R3/view"
+            },
+            {
+                "id": 3,
+                "name": "Vedant Bhosale",
+                "team": "IEEE Membership Development Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/vedant-bhosale-a5944122b/",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/__vedant511__?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1t52dXUwTMoiHbjBnOsYjnenIwri0TJqN/view?usp=share_link"
+            },
+            {
+                "id": 4,
+                "name": "Harshwardhan Lokhande",
+                "team": "IEEE Membership Development Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/harshlokhande24/",
+                "github": "https://github.com/harshlokhande24",
+                "website": "https://harshlokhande24.github.io/web/",
+                "insta": "https://www.instagram.com/harsh.lokhande24/",
+                "image": "https://drive.google.com/file/d/1O0lM4N-boa6KULJmWUSv2PzjrElA4kd7/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "team_name": "Event Management Team",
+        "members": [
+            {
+                "id": 1,
+                "name": "Amit Pawar",
+                "team": "Event Management Team",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/amit-pawar-69727620a/",
+                "github": "https://github.com/amitpawar07",
+                "website": "",
+                "insta": "https://instagram.com/amitpawar_07?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1kFAbtJZChbsdJ0LonxKiBJUoZV56AEIh/view"
+            },
+            {
+                "id": 2,
+                "name": "Pratiksha Kashid",
+                "team": "Event Management Team",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/pratiksha-kashid-279110206/",
+                "github": "https://github.com/Pratiksha73",
+                "website": "",
+                "insta": "https://instagram.com/pratikshaa17_?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1GHEaYe4har8cNfQ06AEEEJugLhLGyBKD/view"
+            },
+            {
+                "id": 3,
+                "name": "Harsh Soni",
+                "team": "Event Management Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/harsh-soni-25a86b209/",
+                "github": "https://github.com/HARSHSONI1048",
+                "website": "",
+                "insta": "soniharsh1000",
+                "image": "https://drive.google.com/file/d/1iKkkNCX_qT0DIlFquND6Fr-EdJAWjXhR/view?usp=share_link"
+            },
+            {
+                "id": 4,
+                "name": "Siddharth Shelke",
+                "team": "Event Management Team",
+                "role": "Member",
+                "linkedin": "www.linkedin.com/in/siddharth-shelke-369bab1aa",
+                "github": "https://github.com/SiddharthShelke",
+                "website": "",
+                "insta": "https://www.instagram.com/siddharth_s_2/",
+                "image": "https://drive.google.com/file/d/12cbPsyCz1vpq3eJCBll05FgjSFnxDrY2/view?usp=share_link"
+            },
+            {
+                "id": 5,
+                "name": "Abhishek Kulkarni",
+                "team": "Event Management Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/abhishekakulkarni/",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/abhi_k_9?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1H4Efqmxt7fEbQvGf5aMmB3bhNFRMbanw/view?usp=share_link"
+            },
+            {
+                "id": 6,
+                "name": "Aditi Soni",
+                "team": "Event Management Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/aditi-soni-41b95221a/",
+                "github": "https://github.com/adz-21",
+                "website": "",
+                "insta": "https://www.instagram.com/aditi_2104/",
+                "image": "https://drive.google.com/file/d/1U1MugltwK_XbrrUCrJ1JqXxrp9_UfHLy/view"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sajan Gaikwad",
+        "team": "Webmasters",
+        "role": "Member",
+        "linkedin": "https://www.linkedin.com/in/sajan-gaikwad-developer/",
+        "github": "https://github.com/SAJanGAIKwad",
+        "website": "",
+        "insta": "https://instagram.com/_.sajannn.gaikwaddd._?igshid=ZDdkNTZiNTM=",
+        "image": "https://drive.google.com/file/d/1gLbrqECQpPghgxOc4d9RJf8Hehmnhshs/view?usp=share_link"
+    },
+    {
+        "id": 9,
+        "name": "Sakshi Londhe",
+        "team": "Webmasters",
+        "role": "Member",
+        "linkedin": "https://www.linkedin.com/in/sakshi-londhe-a8283122b",
+        "github": "https://github.com/sakshi-0",
+        "website": "",
+        "insta": "https://instagram.com/sakshivl_2119?igshid=YmMyMTA2M2Y=",
+        "image": "https://drive.google.com/file/d/1Cthu9fzS-gCKbEGnb5-gmfB936orb-QE/view?usp=drivesdk"
+    },
+    {
+        "team_name": "Video & Photography Team",
+        "members": [
+            {
+                "id": 1,
+                "name": "Rohan Chaudhari",
+                "team": "Video & Photography Team",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/rohan-chaudhari-b81803211/",
+                "github": "https://github.com/rohan77988",
+                "website": "",
+                "insta": "https://www.instagram.com/rohan.chaudhari_/",
+                "image": "https://drive.google.com/file/d/1URKQXilLew5Lhqu5vkd685vtU3Ou5LvE/view?usp=share_link"
+            },
+            {
+                "id": 2,
+                "name": "Shaunak Ondare",
+                "team": "Video & Photography Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/shaunak-ondare20/",
+                "github": "https://github.com/Shaunak-ondare",
+                "website": "",
+                "insta": "https://www.instagram.com/vibeinloop/",
+                "image": "https://drive.google.com/file/d/1vpVq17A4__XO6lqic15pB-Nn1FWGvXl0/view?usp=share_link"
+            },
+            {
+                "id": 4,
+                "name": "Rakshit Jain",
+                "team": "Video & Photography Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/rakshit-jain-7a856b229",
+                "github": "",
+                "website": "",
+                "insta": "",
+                "image": "https://drive.google.com/file/d/1BlnjeghcDGGve46JkKuUJVkC1qQIuAEH/view?usp=sharing"
+            },
+            {
+                "id": 5,
+                "name": "Pooja Nemade",
+                "team": "Video & Photography Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/pooja-narendra-nemade-02044422b",
+                "github": "https://github.com/pooja-026",
+                "website": "",
+                "insta": "https://www.instagram.com/invites/contact/?i=1oep6jsp1g1jq&utm_content=gx4rjy7",
+                "image": "https://drive.google.com/file/d/1MPCHxtcYLkjLSAszAdftqngl8MdLTlaC/view?usp=drivesdk"
+            }
+        ]
+    },
+    {
+        "team_name": "Design Team",
+        "members": [
+            {
+                "id": 1,
+                "name": "Shweta Bajpai",
+                "team": "Design Team",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/shweta-bajpai-4643b7224/",
+                "github": "https://github.com/Shweta2406",
+                "website": "",
+                "insta": "https://www.instagram.com/shwetabajpai_24/?next=%2F",
+                "image": "https://drive.google.com/file/d/1Lb3I6XSJ5T5HJ7FXtvKMnTw_Gl71uVdE/view"
+            },
+            {
+                "id": 2,
+                "name": "Aditya Soraganvi",
+                "team": "Design Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/aditya-soraganvi-01187a224",
+                "github": "https://github.com/Adi502",
+                "website": "",
+                "insta": "aditya._2421",
+                "image": "https://drive.google.com/file/d/1_LZvH_Zb5UCQKWzZu87KxZoVM8Ngd0x7/view?usp=drivesdk"
+            },
+            {
+                "id": 3,
+                "name": "SaiRaj",
+                "team": "Design Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/sairaj-gulve-740914228",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/sairajgulve_09?igshid=YmMyMTA2M2Y=y",
+                "image": ""
+            },
+            {
+                "id": 4,
+                "name": "Jaishree Dubey",
+                "team": "Design Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/jaishree-dubey-43288422a",
+                "github": "",
+                "website": "",
+                "insta": "",
+                "image": "https://drive.google.com/file/d/12g32CT20xH6xgtFlYIR3LTPmqKs7Fx2b/view?usp=share_link"
+            },
+            {
+                "id": 6,
+                "name": "Sanjiwani Kosare",
+                "team": "Design Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/sanjiwani-kosare-7a84ab22b",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/sanjiwani_k7?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1_mXhECvygHl3gZRmuctKj_iHV0uWYg9e/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "team_name": "Social Media",
+        "members": [
+            {
+                "id": 1,
+                "name": "Janhavi Dhajekar",
+                "team": "Social Media",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/janhavi-dhajekar-25226b20a/",
+                "github": "https://github.com/JanhaviDhajekar",
+                "website": "",
+                "insta": "https://instagram.com/_jan_v_09?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/file/d/1Lb3I6XSJ5T5HJ7FXtvKMnTw_Gl71uVdE/view?usp=share_link"
+            },
+            {
+                "id": 2,
+                "name": "Harshal Modhave",
+                "team": "Social Media",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/harshal-modhave-053106208/",
+                "github": "https://github.com/Harshal-Modhave",
+                "website": "",
+                "insta": "https://www.instagram.com/_harshalmodhave/",
+                "image": "https://drive.google.com/file/d/1ajI70WE88XZ6Z4pHmI1xXWthHB1vDzW9/view?usp=share_link"
+            },
+            {
+                "id": 3,
+                "name": "Aryaan Madhani",
+                "team": "Social Media",
+                "role": "Member",
+                "linkedin": "http://www.linkedin.com/in/aryaan-madhani1802",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/aryaan_madhani_18?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/drive/folders/1HERGcHKvT_xbn2EDt477BFo2ZYWnu2f9"
+            },
+            {
+                "id": 4,
+                "name": "Shantanu Borade",
+                "team": "Social Media",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/shantanu-borade-b85214226",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/shantanu_borade07?igshid=MDM4ZDc5MmU=",
+                "image": "https://drive.google.com/file/d/1zrY9IKoi6tKn_JK8TobrjTd3f4Ei8SqH/view?usp=drivesdk"
+            }
+        ]
+    },
+    {
+        "team_name": "Newsletter Team",
+        "members": [
+            {
+                "id": 1,
+                "name": "Sahil Naik",
+                "team": "Newsletter Team",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/sahil-naik-085276224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQueg%2BcIPS%2B2NAYH2EHwzJQ%3D%3D",
+                "github": "https://github.com/SAHO116",
+                "website": "",
+                "insta": "https://instagram.com/_sahilnaik__?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/drive/folders/1yQxdPXKZoBxcg9OczhEaK58S1-zB5Fbj"
+            },
+            {
+                "id": 2,
+                "name": "Kaustubh Jagtap",
+                "team": "Newsletter Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/kaustubh-jagtap-038309224",
+                "github": "https://github.com/Kaustubhj111",
+                "website": "",
+                "insta": "https://www.instagram.com/kaustubhj0077/?r=nametag",
+                "image": "https://drive.google.com/file/d/10GYvh1qi9kbNQ26dclLkMA40OvF68pko/view?usp=sharing"
+            },
+            {
+                "id": 3,
+                "name": "Ayush Jain",
+                "team": "Newsletter Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/ayush-jain-5392a122a",
+                "github": "https://github.com/ayushjain2163",
+                "website": "",
+                "insta": "https://instagram.com/a_y_u_s_h_21o?igshid=Zjc2ZTc4Nzk=",
+                "image": "https://drive.google.com/file/d/1W7ThCfACzglUwLczGL7v5XuPHF4flFX9/view?usp=share_link"
+            },
+            {
+                "id": 4,
+                "name": "Kunal Bhala",
+                "team": "Newsletter Team",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/kunal-bhala-5b76a322b",
+                "github": "https://github.com/kunalbhala283",
+                "website": "",
+                "insta": "https://instagram.com/kunalbhala_22_08?igshid=YmJhNjkzNzY=",
+                "image": "https://drive.google.com/file/d/1iznP3Ih5VCe2c-hRPnV99smfuVzQHw37/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "team_name": "IICF",
+        "members": [
+            {
+                "id": 1,
+                "name": "Harshal Modhave",
+                "team": "IICF",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/harshal-modhave-053106208/",
+                "github": "https://github.com/Harshal-Modhave",
+                "website": "",
+                "insta": "https://www.instagram.com/_harshalmodhave/",
+                "image": "https://drive.google.com/file/d/1Ur6oZPyLhiCfsevdSI45JcIWviXmPF2s/view?usp=share_link"
+            },
+            {
+                "id": 2,
+                "name": "Ayush Jain",
+                "team": "IICF",
+                "role": "Member",
+                "linkedin": "https://www.linkedin.com/in/ayush-jain-5392a122a",
+                "github": "https://github.com/ayushjain2163",
+                "website": "",
+                "insta": "https://instagram.com/a_y_u_s_h_21o?igshid=Zjc2ZTc4Nzk=",
+                "image": "https://drive.google.com/file/d/1W7ThCfACzglUwLczGL7v5XuPHF4flFX9/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "team_name": "Higher Studies",
+        "members": [
+            {
+                "id": 1,
+                "name": "Siddharth Shelke",
+                "team": "Higher Studies",
+                "role": "Member",
+                "linkedin": "www.linkedin.com/in/siddharth-shelke-369bab1aa",
+                "github": "https://github.com/SiddharthShelke",
+                "website": "",
+                "insta": "https://www.instagram.com/siddharth_s_2/",
+                "image": "https://drive.google.com/file/d/12cbPsyCz1vpq3eJCBll05FgjSFnxDrY2/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "team_name": "ISR",
+        "members": [
+            {
+                "id": 1,
+                "name": "Harsh Soni",
+                "team": "ISR",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/harsh-soni-25a86b209/",
+                "github": "https://github.com/HARSHSONI1048",
+                "website": "",
+                "insta": "soniharsh1000",
+                "image": "https://drive.google.com/file/d/1iKkkNCX_qT0DIlFquND6Fr-EdJAWjXhR/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "team_name": "NSS",
+        "members": [
+            {
+                "id": 1,
+                "name": "Manav Gupta",
+                "team": "NSS",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/manav852/",
+                "github": "https://github.com/Manav852",
+                "website": "",
+                "insta": "manav____gupta",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "team_name": "Art Circle",
+        "members": [
+            {
+                "id": 1,
+                "name": "Madhur Kharche",
+                "team": "Art Circle",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/madhurkharche22/",
+                "github": "https://github.com/MadhurKharche",
+                "website": "",
+                "insta": "https://www.instagram.com/maddyk_22/",
+                "image": "https://drive.google.com/file/d/1oF5r06MpAmem4avry3tRKOVZy-vJ4vKS/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "team_name": "Sports",
+        "members": [
+            {
+                "id": 1,
+                "name": "Pranay Bhagat",
+                "team": "Sports",
+                "role": "Lead",
+                "linkedin": "",
+                "github": "",
+                "website": "",
+                "insta": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "team_name": "CPDC",
+        "members": [
+            {
+                "id": 1,
+                "name": "Kaustubh Jagtap",
+                "team": "CPDC",
+                "role": "Lead",
+                "linkedin": "https://www.linkedin.com/in/kaustubh-jagtap-038309224",
+                "github": "https://github.com/Kaustubhj111",
+                "website": "",
+                "insta": "https://www.instagram.com/kaustubhj0077?r=nametag",
+                "image": "https://drive.google.com/file/d/10GYvh1qi9kbNQ26dclLkMA40OvF68pko/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "team_name": "SY Interaction Coordinator",
+        "members": [
+            {
+                "id": 1,
+                "name": "Aryaan Madhani",
+                "team": "SY Interaction Coordinator",
+                "role": "Lead DIV A",
+                "linkedin": "http://www.linkedin.com/in/aryaan-madhani1802",
+                "github": "",
+                "website": "",
+                "insta": "https://instagram.com/aryaan_madhani_18?igshid=ZDdkNTZiNTM=",
+                "image": "https://drive.google.com/drive/folders/1HERGcHKvT_xbn2EDt477BFo2ZYWnu2f9"
+            },
+            {
+                "id": 2,
+                "name": "Suhail Pathan",
+                "team": "SY Interaction Coordinator",
+                "role": "Lead DIV B",
+                "linkedin": "https://www.linkedin.com/in/suhail-pathan-3948341ba",
+                "github": "",
+                "website": "",
+                "insta": "https://www.instagram.com/x_suhail._/",
+                "image": "https://drive.google.com/file/d/1dSddaJkjfu5CChHMM5yUm_pKETvRKyoV/view?usp=drivesdk"
+            }
+        ]
+    }
+]

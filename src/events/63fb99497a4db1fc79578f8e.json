@@ -1,0 +1,10 @@
+{
+    "unique": 1,
+    "payload": [
+        {
+            "name": "Email",
+            "type": "email",
+            "id": "email1"
+        }
+    ]
+}

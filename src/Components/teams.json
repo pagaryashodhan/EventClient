@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Yash Jaybhaye",
+    "team": "Webmasters",
+    "role": "Full Stack Web | Mobile developer",
+    "linkedin": "https://www.linkedin.com/in/yash-jaybhaye-087183213/",
+    "github": "https://github.com/YashJ1707",
+    "website": "https://dhgavali.me",
+    "insta": "https://www.instagram.com/yashj1707/",
+    "image": "https://link"
+  },
+  {
+    "id": 2,
+    "name": "Dhananjay Gavali",
+    "team": "Webmasters",
+    "role": "Full Stack Web | Mobile developer",
+    "linkedin": "https://www.linkedin.com/in/dhgavali/",
+    "github": "https://www.github.com/dhgavali",
+    "website": "https://dhgavali.me",
+    "insta": "https://instragram.com/dhgavali",
+    "image": "https://link"
+  },
+  {
+    "id": 3,
+    "name": "Yashodhan Pagar",
+    "team": "Webmasters",
+    "role": "Full Stack Web developer",
+    "linkedin": "https://www.linkedin.com/in/yashodhanpagar/",
+    "github": "https://github.com/pagaryashodhan",
+    "website": "https://yashodhan.co/",
+    "insta": "https://www.instagram.com/yashodhan.pagar/"
+  },
+  {
+    "id": 4,
+    "name": "Arnav Deshmukh",
+    "team": "Webmasters",
+    "role": "Full Stack Web developer",
+    "linkedin": "https://www.linkedin.com/in/arnav-deshmukh-510004218/",
+    "github": "https://www.github.com/arnavdeshmukh18",
+    "website": "https://arnavd2840.netlify.app/",
+    "insta": "https://www.instagram.com/_arnav_d_/"
+  },
+  {
+    "id": 5,
+    "name": "Chinmay Dhamgunde ",
+    "team": "Webmasters",
+    "role": "Frontend | Web3 developer",
+    "linkedin": "https://www.linkedin.com/in/chinmay-dhamgunde-23617122a/",
+    "github": "https://github.com/chinmaydhamgunde",
+    "website": "https://twitter.com/0xChinmay",
+    "insta": "https://instragram.com/chinmaydhamgunde/"
+  },
+  {
+    "id": 6,
+    "name": "Prathamesh Patil",
+    "team": "Webmasters",
+    "role": "Full Stack Developer | MERN Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/prathamesh-patil-jalgaon/",
+    "github": "https://www.github.com/prathamesh-patil-github",
+    "website": "https://prathameshpatil.web.app",
+    "insta": "https://instagram.com/pro14.1"
+  },
+  {
+    "id": 7,
+    "name": "Madhukrishna Nipankar",
+    "team": "Webmasters",
+    "role": "Full Stack Web developer",
+    "linkedin": "https://www.linkedin.com/in/madhukrishna-nipankar-666771213/",
+    "github": "https://github.com/MadhukrishnaNipankar",
+    "website": "https://madhukrishnanipankar.netlify.app/",
+    "insta": ""
+  }
+]
